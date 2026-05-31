@@ -88,23 +88,20 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Python & Machine Learning</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Passionate about building intelligent systems using Python. Experienced in
+                data analysis, classification, regression, and NLP through academic projects.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skillset &amp; tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Scikit-learn</div>
+                <div className="what-tags">Pandas</div>
+                <div className="what-tags">NumPy</div>
+                <div className="what-tags">NLP / NLTK</div>
+                <div className="what-tags">Machine Learning</div>
+                <div className="what-tags">Data Analysis</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +125,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h3>FUNDAMENTALS</h3>
+              <h4>Web & IT Concepts</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Strong foundational knowledge of web technologies, computer systems,
+                and office productivity tools essential for modern IT environments.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skillset &amp; tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">HTML / CSS</div>
+                <div className="what-tags">MS Office</div>
+                <div className="what-tags">Web Basics</div>
+                <div className="what-tags">Computer Fundamentals</div>
+                <div className="what-tags">IT Concepts</div>
               </div>
               <div className="what-arrow"></div>
             </div>

@@ -6,9 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Motivated and enthusiastic Computer Science diploma student with strong interest in programming
+          and IT technologies. Seeking an entry-level opportunity to apply technical knowledge, enhance
+          practical skills, and contribute to organizational growth. Based in MCF 5737, Sec 23, Faridabad.
         </p>
       </div>
     </div>
